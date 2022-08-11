@@ -6,7 +6,7 @@ const Terms: NextPage = () => {
     return (
         <>
             <div className="w-full flex flex-col items-center justify-center text-white text-3xl font-semibold">
-                <div className="my-20 px-20 w-[1200px]">
+                <div className="my-20 px-20 max-w-[1200px]">
                     <div className="text-center">
                         <div className="mb-6">
                             <Link href="/">
