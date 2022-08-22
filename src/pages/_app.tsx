@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>jckli&apos;s next.js template</title>
+        <title>Picsiv</title>
       </Head>
       <div>
         <Component {...pageProps} />
