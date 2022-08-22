@@ -9,6 +9,9 @@ const Home: NextPage = () => {
                 <h1>in development - picsiv web</h1>
                 <div className="mb-6">
                     <div className="md:inline-block md:mr-4">
+                        <a href="https://jackli.dev/picsiv" className="text-[#494e53] transition-all ease-in-out duration-300 hover:text-[#a385b3]">invite</a>
+                    </div>
+                    <div className="md:inline-block md:mr-4">
                         <Link href="/terms">
                             <a className="text-[#494e53] transition-all ease-in-out duration-300 hover:text-[#a385b3]">terms of service</a>
                         </Link>
